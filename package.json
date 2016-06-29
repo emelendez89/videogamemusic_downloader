@@ -16,7 +16,7 @@
     "fetcher"
   ],
   "author": "Marcelo Melendez",
-  "license": "GNU",
+  "license": "GPL-3.0",
   "repository": {
     "type": "git",
     "url": "https://github.com/emelendez89/videogamemusic_downloader.git"
