@@ -1,0 +1,32 @@
+{
+  "name": "videogamemusic_downloader",
+  "version": "1.0.0",
+  "description": "Small automated link fetchers that help you download mp3 from the page http://downloads.khinsider.com/",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "downloader",
+    "video",
+    "game",
+    "music",
+    "link",
+    "crawler",
+    "fetcher"
+  ],
+  "author": "Marcelo Melendez",
+  "license": "GNU",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/emelendez89/videogamemusic_downloader.git"
+  },
+  "dependencies": {
+    "cheerio": "^0.20.0",
+    "download-file": "^0.1.5",
+    "express": "^4.14.0",
+    "prompt": "^1.0.0",
+    "request": "^2.72.0",
+    "underscore": "^1.8.3"
+  }
+}
